@@ -1,0 +1,63 @@
+*{
+    margin:0;
+
+}
+.one{
+    background-color: black;
+    
+
+}
+h1,li,ul{
+    display:inline;
+}
+ul{
+     margin-left: 60% ;
+}
+li{
+    padding-left:20px;
+    cursor: pointer;
+}
+li:hover{
+    color:white
+}
+.search{
+    text-align:center;
+}
+input{
+    width: 800px;
+    height:40px;
+    margin:20px;
+    
+}
+.box{
+    border-width:4px;
+    border-color: black;
+    border-style: ridge;
+    display:inline-block;
+    width:224px;
+    margin:20px;
+    text-align: center;
+}
+.box1{
+    border-width:4px;
+    border-color: black;
+    border-style: ridge;
+    display:inline-block;
+    width:224px;
+    margin:20px;
+    text-align: center;
+}
+.submit{
+    width: 120px;
+}
+.picture{
+    text-align: center;
+    margin-top: 40px;;
+}
+.about{
+    margin: 20px;;
+}
+.contact{
+    color: white;
+    background-color: black;
+}
